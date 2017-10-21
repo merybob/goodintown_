@@ -1,0 +1,2 @@
+class CategorieActu < ApplicationRecord
+end

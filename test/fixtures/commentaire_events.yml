@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  message: MyText
+  event: one
+  user: 
+  anonyme: MyString
+  status: false
+
+two:
+  message: MyText
+  event: two
+  user: 
+  anonyme: MyString
+  status: false
